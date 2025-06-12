@@ -75,7 +75,5 @@ By exploring this project, you will gain:
 
 ## 📌 Author Notes
 
-This project is purely educational and suitable for academic demonstrations, project submissions, or personal learning. Every example is simple yet rich in demonstrating key automation concepts using Selenium.
-Created with learning and practice by **Yash Khadke**.
 
 
